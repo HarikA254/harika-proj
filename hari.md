@@ -1,2 +1,2 @@
-this is harika proj
+this is harika mini
 hello all
